@@ -1,2 +1,2 @@
 # Todolist 
- todolist using django and eract
+ todolist using django and react
